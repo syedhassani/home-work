@@ -17,4 +17,3 @@ def print_factors(number):
             print(i)
 number = int(input("Enter number"))
 print_factors(number)
-# home work is done
